@@ -9,6 +9,8 @@ int sub(int, int);
 int main()
 {
 	int a,b;
+	cout << "enter two nos " << endl;
+	cin >> a >> b;
 	return 0;
 }
 
